@@ -1,0 +1,5 @@
+-Entendimos la introduccion de lo que respecta el desarrollar aplicaciones en React de lo cual aprendimos con respecto a su estructura y manera de programar.
+-Aplicamos y aprendimos paso a paso como es que se instala una aplicacion en blanco usando react
+-Determinamos la importancia que implica el usar y manejar terminos de comandos en consola ya que mayormente el desarrollo de aplicaciones con react depende de este tipo de progrmacion.
+-Implementamos y determinamos la importancia de programar y la importancia que implica el progrmaar con JavaScript
+-Apredimos los diversos termisnos que componene el desarrollar en react como tambien sus funciones que se programan en JS.
