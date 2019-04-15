@@ -1,0 +1,12 @@
+Conclusiones:
+- Realizamos nuestros primeros pasos con respecto a desarrollar aplicaciones 
+ con react native del cual nosotros, hicimos uso de objetos basicos para aplicarlos
+en una aplicacion de conteo.
+- Observamos a mayor detalle la composicion de cada elemento que compone una aplicacion inicada ren 
+react native.
+- Hicimos uso de archivos .js del cual nosotros los importamos a traves de otros por lo cualestos 
+ ejecuten acciones a nuestros objetos, en nuestro caso botones.
+- Realizamos la creacion de diversas acciones en nuestra aplicacion basica del cual vimos 
+ la clara similitud com progrmar con html.
+- A traves de lo visto en el laboratorio vimos como funciona el ciclo de una aplicacion en react-native del
+ cual consiste en Montado, Actualización y Desmontado.
