@@ -1,0 +1,64 @@
+1.6. Si todo ha salido bien, deberías tener una pantalla como la 
+siguiente. En caso contrario, consulta con el profesor
+Ver Imagen: /Imagen/captura1.jpg
+
+
+2.4. Guarde los cambios y verifique la aparición del contador
+Ver Imagen: /Imagen/captura2.jpg
+
+
+2.6. Al igual que los elementos HTML, los componentes en React pueden recibir “propiedades”
+que les indican cómo comportarse. Para invocar estas propiedades, basta con llamar a la
+variable interna this.props
+- Guardemos los cambios y veamos el resultado.
+Ver Imagen: /Imagen/captura3.jpg
+
+
+3. Estado del componente
+3.1. Así como los componentes reciben propiedades externas que les indican cómo comportarse,
+cada uno puede tener sus características propias que le permiten diferenciarse. Esto se llama
+estado y es una de las características más útiles de React. Podemos acceder al estado a
+través de la variable reservada this.state
+Modifiquemos nuestro archivo Contador.js
+Guarde los cambios y vea la diferencia.
+Ver Imagen: /Imagen/captura4.jpg
+
+
+3.2. Para modificar el estado, debemos hacer uso de la función this.setState
+Para disparar este evento, vamos a crear dos botones, uno que incremente el valor, y otro que
+lo disminuya. Modifiquemos nuevamente el código de Contador.js
+Guarde los cambios y verifique el resultado
+Ver Imagen: /Imagen/captura5.jpg
+
+
+3.3. Procederemos a agregar los eventos que modifican el estado. Para esto, el componente
+Button tiene una propiedad llamada onPress, que se dispara cada vez que el usuario presiona
+el componente en la pantalla.
+Modificaremos Contador.js nuevamente.
+Guarde los cambios y verifique el funcionamiento de nuestros botones
+
+Ver Imagen: /Imagen/captura6.jpg
+
+
+
+3.4. Modifiquemos Contador.js, ahora queremos declarar el valor por defecto de su estado inicial.
+Para esto modificaremos una parte del state y otra del render.
+
+Esto significa que podemos utilizar la propiedad recibida inicialmente para configurar nuestro
+estado. Verifique el funcionamiento actual de los tres contadores y comente al respecto.
+
+Ver Imagen: /Imagen/captura7.jpg
+
+- Modificamos todas esas lineas para que al momento de montar la aplicacion y al momento de usar los botones
+ en la aplicacion vemos que realiza las acciones de manera correcta sin que se muestre el problema de aumento de valores 
+ y el incremento del boton
+
+
+
+
+5.3. Sin embargo, al ejecutar el código, vemos que nuestro input puede cambiar de valor pero no
+modifica a los contadores. Esto se debe a que el valor del contador se setea solamente la
+primera vez que se carga el componente, en la etapa de montado.
+Vamos a utilizar la etapa de actualización para hacer funcionar nuestros contadores con el
+nuevo input, así que modifiquemos Contador.js
+Ver Imagen: /Imagen/captura8.jpg
