@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CONCLUSIONES
 - Aprendimos el entorno del cual esta compuesto react native del cual nosotros 
 a traves del uso de comandos y un dispositivo fisico, nosotros montamos 
@@ -17,3 +18,24 @@ nuestra primera aplicacion montada.
 
 
 
+=======
+CONCLUSIONES
+- Aprendimos el entorno del cual esta compuesto react native del cual nosotros 
+a traves del uso de comandos y un dispositivo fisico, nosotros montamos 
+nuestra primera aplicacion montada.
+- Aprendimos mas a cerca del entorno de react native del cual este 
+ posee diversas opciones del cual nosotros podemos aplicarlas en caso
+ de que nosotros programemos en el entorno de android o iOS.
+- A traves de un analisis a lo largo del proyecto vemos que el programar 
+ en este entorno lleva con sigo una similitud con programar en html y con javascript
+ del cual a nosotros nos fue menos complivado en dominar el entorno.
+- Las apps nativas tienen un aspecto profesional y su rendimiento es 
+ considerable, pero es necesario conocer cada plataforma a fondo y son 
+ propensas a tener una infinidad de bugs.
+- Antes de la aparición de React Native, las posibilidades para las 
+ empresas básicamente se repartían entre desarrollo nativo o desarrollo 
+ mediante un framework híbrido. 
+
+
+
+>>>>>>> 295a0c8e398082dd010bb0043c65ee1c5a55413f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 3. Estructura del proyecto
 Ver imagen: /Imagenes/captura1.jpg
 
@@ -7,3 +8,14 @@ Ver imagen: /Imagenes/captura2.jpg
 Imagenes:
 Ver imagen: /Imagenes/captura3.jpg
 Ver imagen: /Imagenes/captura4.jpg
+=======
+3. Estructura del proyecto
+Ver imagen: /Imagenes/captura1.jpg
+
+3.6. Para refrescar el dispositivo, siga las instrucciones del siguiente vídeo:
+Ver imagen: /Imagenes/captura2.jpg
+3.10. Adjunte una captura de la aplicación hasta el momento.
+Imagenes:
+Ver imagen: /Imagenes/captura3.jpg
+Ver imagen: /Imagenes/captura4.jpg
+>>>>>>> 295a0c8e398082dd010bb0043c65ee1c5a55413f

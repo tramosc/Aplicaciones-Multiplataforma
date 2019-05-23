@@ -1,0 +1,3 @@
+rootProject.name = 'Tar4'
+
+include ':app'
