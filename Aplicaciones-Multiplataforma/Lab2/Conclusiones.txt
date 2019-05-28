@@ -1,0 +1,19 @@
+Conclusiones
+
+- Con lo desarrollado en este laboratorio entendimos el funcionamiento de aplicaciones y componenetes 
+basicos en React JS.
+
+- Conceptualmente, los componentes son como las funciones de JavaScript. 
+Aceptan entradas arbitrarias (llamadas “props”) y devuelven a React 
+elementos que describen lo que debe aparecer en la pantalla.
+
+- Realizamos las aplicaciones web con otra metodologia diferente a la vista hasta el momento.
+
+- El entendimientos con respecto a un componenete en react JS, básicamente 
+se trata de un elemento software visual que tiene su propio estado, 
+recibe unas propiedades e implementa su propia lógica de renderizado.
+
+- Con respecto a la utilidad que tiene react con el desarrollo web es que estos,
+permiten separar la interfaz de usuario en piezas independientes, 
+reutilizables y pensar en cada pieza de forma aislada
+
