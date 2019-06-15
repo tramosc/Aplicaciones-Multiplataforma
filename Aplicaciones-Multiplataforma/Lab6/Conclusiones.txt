@@ -1,0 +1,19 @@
+CONCLUSIONES
+
+- Para renderizar múltiples columnas, usa el numColumnsprop. El uso de este enfoque en lugar de un 
+flexWrapdiseño puede evitar conflictos con la lógica de altura del elemento.
+
+- Mediante la unión del onPressItemmanejador, los puntales se mantendrán ===y PureComponentevitará 
+desperdicio vuelve a renderizar a menos que los reales id, selectedo titlepuntales cambiar, 
+aunque los componentes prestados en MyListItemno tenían este tipo de optimizaciones.
+
+- React Native proporciona un conjunto de componentes para presentar listas de datos. En 
+general, querrá usar FlatList o SectionList .
+
+- El FlatListcomponente muestra una lista de desplazamiento de datos cambiantes, pero 
+estructurados de manera similar. FlatListfunciona bien para largas listas de datos, 
+donde la cantidad de elementos puede cambiar con el tiempo. 
+
+- El FlatListcomponente requiere dos pilares: datay renderItem. dataEs 
+la fuente de información para la lista. renderItemtoma un elemento de la 
+fuente y devuelve un componente formateado para renderizar.

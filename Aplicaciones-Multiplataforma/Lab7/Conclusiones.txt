@@ -1,0 +1,12 @@
+CONCLUSIONES
+
+- Desarrollamos nuestros primeros pasos en la creacionde una plaicacion usando 
+compoenetes web de lo cual estara vincualda a una base de datos.
+
+- Determinamos la importancia de usar complementos externos e instalarlos en nuestro proyecto 
+para un optimo desempeño de la aplicacion
+
+- Realizamos los primeros pasos del chat y para ser mas efectivo este proceso es ideal el colaborar con varios compañeros del laboratorio.
+
+- Determinamos la importancia de estar conectados a nuestra direccionip tanto en telefono como en PC.
+

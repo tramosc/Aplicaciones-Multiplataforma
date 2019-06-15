@@ -1,0 +1,14 @@
+
+CONCLUSIONES
+
+- Nuestra aplicación es solo un programa de chat simple en el que un usuario puede iniciar un nuevo 
+ inicio de sesión con un nombre de usuario y contraseña
+
+- Usamos otros proyectos externos a react como dawa_api para crear y llamar elementos de una base de datos
+
+- verificamos a traves de la consola si nuestra solicitud fue un exito con respecto al llamado de datos.
+
+- Usamos por primera vez en el ambito movil datos de una base de datos conectada a nuestro proyecto.
+
+- El proposito del laboratorio esta relacionado con el uso de datos en tiempo real
+
