@@ -1,0 +1,15 @@
+
+Conclusiones:
+
+- Aprendimos mas sobre como es que se manifiesta diversas formas de ordenar o dar unestilo a nuestro proyecto en react
+
+- Determinamos la importacia que hay de aplicarle estilos y un diseño llamativo a nuestras aplicaciones de lo cual sera fundamental 
+para nuestros siguientes proyectos.
+
+- Con React Native, no usa un lenguaje especial o sintaxis para definir estilos. 
+ Simplemente estilo tu aplicación utilizando JavaScript. Todos los componentes principales aceptan un prop llamado style
+
+- A traves de este laboratorio aprendimos a como llamar y exportar diversas vistas y efectos a nuestro pryecto comprendiendo su logica.
+
+- Determinamos la importacia que tiene el de implementar librerias para cada tipo de uso en especifico a lo largo del semestre como podemos ver en caso de usar 
+camara, grabadora o almacenamiento del mismo usuario
