@@ -1,0 +1,14 @@
+3.2. Ejecute la aplicación. Al viajar a la vista de cámara, obtendrá la siguiente petición, que usted aceptará
+
+Secuencia:
+
+imagenes:
+imagen1: Imagenes/Ingresando a la vista de la camara.jpg
+imagen2: Imagenes/acciones del chat.jpg
+imagen3: Imagenes/Permisos para acceder a la camara.jpg
+imagen4: Imagenes/Ingresando a la vista de la camara.jpg
+imagen5: Imagenes/vista de la toma de fotos.jpg
+Verificando la recencion de fotos
+
+imagen1: Imagenes/log-android.PNG
+imagen2: Imagenes/log_android Verificando la recepcion de fotos.PNG (presione snap varias veces)
