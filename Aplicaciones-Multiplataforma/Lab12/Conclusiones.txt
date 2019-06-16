@@ -1,0 +1,15 @@
+
+CONCLUSIONES:
+
+- Aplicamos los conceptos y codigo necesario para poder implementar listas e 
+interfaz de confuracion de una aplicacion.
+- Aplicamos el concepto de flatlist de lo cual no solo es eficiente, sino que 
+también tiene una API increíblemente sencilla para trabajar.
+- Para su uso basico, hay dos elementos principales que debe conocer en a FlatListy son 
+data y renderItem . La primera es una matriz de datos utilizada para crear la lista, generalmente 
+una matriz de objetos, y la segunda es la función que tomará un elemento individual de la matriz de 
+datos y le brindará un componente.
+- Juntamos todo lo visto hasta ahora en nuestros laboratorio en react para convertirlo en una aplicacion
+ basica pero con un diseño profesional.
+- observamos los elemntos necesario para poder implementar a traves de este metodo funciones 
+que hagan que una aplicacion realize acciones de configuracion o ajustes.
