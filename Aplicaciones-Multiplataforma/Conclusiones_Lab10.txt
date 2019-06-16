@@ -1,7 +1,0 @@
-CONCLUSIONES 
-
-- Hicimos uso de las herramientas que nos proporciona google para poder usar mapas en apps moviles
-- Hicimos uso de confifuraciones de estilos avanzados para poder lograr que nuestra aplicacion tenga un 
-aspecto mas profesional
-- Aplicamos a traves del laboratorio como es que funciona el componenete de react para mapas
-- Aprendimos a como es que se desempeña el entorno de APIS como geolocation
