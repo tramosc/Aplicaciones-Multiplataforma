@@ -1,0 +1,15 @@
+3.2. Fíjese como el componente GiftedChat necesita pocas propiedades para poder armar un 
+chat ya funcional. Dígale a su compañero que modifique la dirección IP de su proyecto de 
+React Native hacia el suyo para que ambos puedan conversar (deben estar en el mismo servidor para 
+que funcione el chat) Vea así mismo que pueden participar muchas personas sin problema. Para mayor 
+detalle de la documentación del componente, puede acceder a:
+
+Imagenes: Imagenes/Boton de ingreso al chat.jpg
+Imagenes: Imagenes/Implementacion del chat simple.jpg
+
+
+Recepcion de datos en la consola:
+Imagenes: Imagenes/Recepcion de datos en la consola.PNG
+
+Chat mejorado:
+Imagenes: Imagenes/Chat con la implementacion del boton hacia las acciones.jpg
